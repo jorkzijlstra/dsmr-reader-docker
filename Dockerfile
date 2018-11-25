@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM arm32v6/python:3-alpine
 
 ENV DSMR_READER_VERSION v1.26.1
 
