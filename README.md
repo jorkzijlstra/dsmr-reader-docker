@@ -1,4 +1,5 @@
-# DSMR Reader - Docker
+# DSMR Reader - Docker - ARM 
+## Thanks Geert van der Cruijsen - https://github.com/Geertvdc
 
 A docker-compose file in order to start the following application in Docker:  
 dsmr-reader (https://github.com/dennissiemensma/dsmr-reader)
