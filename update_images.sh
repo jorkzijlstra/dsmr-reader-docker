@@ -10,7 +10,7 @@ set -o nounset
 : "${ARCH_ARR:=amd64 arm32v6 arm64v8}"
 : "${DSMR_GIT_REPO:=dennissiemensma/dsmr-reader}"
 : "${QEMU_GIT_REPO:=multiarch/qemu-user-static}"
-: "${DOCKER_HUB_REPO:=xirixiz/dsmr-reader-docker}"
+: "${DOCKER_HUB_REPO:=jorkzijlstra/dsmr-reader-docker}"
 : "${LOCAL:=}"
 : "${HUB:=}"
 : "${TAG:=}"
